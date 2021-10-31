@@ -1,5 +1,4 @@
 
-package edu.ucalgary.ensf409;
 
 import static org.junit.Assert.*;
 import org.junit.*;

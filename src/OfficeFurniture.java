@@ -1,5 +1,4 @@
 
-package edu.ucalgary.ensf409;
 
 public class OfficeFurniture {
     private String ID;

@@ -1,7 +1,4 @@
 
-package edu.ucalgary.ensf409;
-
-
 class Lamp extends OfficeFurniture{
     private char base;
     private char bulb;

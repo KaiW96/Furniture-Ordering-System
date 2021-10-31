@@ -1,6 +1,4 @@
 
-package edu.ucalgary.ensf409;
-
 class Chair extends OfficeFurniture{
     private char legs;
     private char arms;

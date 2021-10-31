@@ -1,5 +1,4 @@
 
-package edu.ucalgary.ensf409;
 
 
 class Desk extends OfficeFurniture{

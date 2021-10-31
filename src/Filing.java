@@ -1,5 +1,4 @@
 
-package edu.ucalgary.ensf409;
 
 class Filing extends OfficeFurniture{
     private char rails;
