@@ -35,7 +35,7 @@ The Order program can be run in any directory which has a Java machine installed
 
 If you are working in the src directory, use the following command below to run the program:
 ```
-				javac -cp .;mysql-connector-java-8.0.23.jar;. edu/ucalgary/ensf409/Order.java
+javac -cp .;mysql-connector-java-8.0.23.jar;. edu/ucalgary/ensf409/Order.java
 ```
 followed by :
 				java -cp .;mysql-connector-java-8.0.23.jar;. edu/ucalgary/ensf409/Order 
