@@ -38,7 +38,10 @@ If you are working in the src directory, use the following command below to run 
 javac -cp .;mysql-connector-java-8.0.23.jar;. edu/ucalgary/ensf409/Order.java
 ```
 followed by :
-				java -cp .;mysql-connector-java-8.0.23.jar;. edu/ucalgary/ensf409/Order 
+
+```			
+java -cp .;mysql-connector-java-8.0.23.jar;. edu/ucalgary/ensf409/Order 
+```
 				
 The code will now ask the user for username and password. Enter the credentials on your computer and the program will ask for a furniture request.
 After a successful order is created, an output text file (orderform.txt) will be created in the same directory as src. The user can update 
