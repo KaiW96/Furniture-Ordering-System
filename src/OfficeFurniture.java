@@ -1,4 +1,4 @@
-
+package edu;
 
 public class OfficeFurniture {
     private String ID;

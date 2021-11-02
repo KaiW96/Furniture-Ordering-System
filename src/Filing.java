@@ -1,4 +1,4 @@
-
+package edu;
 
 class Filing extends OfficeFurniture{
     private char rails;

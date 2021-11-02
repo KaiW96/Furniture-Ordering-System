@@ -1,4 +1,4 @@
-
+package edu;
 class Lamp extends OfficeFurniture{
     private char base;
     private char bulb;

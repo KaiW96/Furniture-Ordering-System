@@ -1,4 +1,4 @@
-
+package edu;
 import java.util.ArrayList;
 
 class Storage {

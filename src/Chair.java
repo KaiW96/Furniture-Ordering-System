@@ -1,4 +1,4 @@
-
+package edu;
 class Chair extends OfficeFurniture{
     private char legs;
     private char arms;
