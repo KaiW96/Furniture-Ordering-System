@@ -12,7 +12,7 @@ Lamp.java
 Filing.java
 
 
-# Order
+# Furniture Ordering System
 
 Order is a program which produces an order for a furniture based on the current inventory of furniture parts
 
@@ -34,8 +34,9 @@ Installation
 The Order program can be run in any directory which has a Java machine installed.
 
 If you are working in the src directory, use the following command below to run the program:
-
+```bash
 				javac -cp .;mysql-connector-java-8.0.23.jar;. edu/ucalgary/ensf409/Order.java
+```
 followed by :
 				java -cp .;mysql-connector-java-8.0.23.jar;. edu/ucalgary/ensf409/Order 
 				
