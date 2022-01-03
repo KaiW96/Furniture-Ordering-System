@@ -17,6 +17,7 @@ If no possible combinations are found, the program will suggest the client to re
 
 # Installation
 
+Start by cloning the repository into your local machine.
 
 The Order program can be run in any directory which has a Java machine installed.
 
